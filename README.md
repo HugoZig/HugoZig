@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Repository+%F0%9F%A4%97+!)](https://git.io/typing-svg)
-<p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=10000&random=false&width=435&lines=Hi!+Welcome+to+my+repository+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/otavio-hbf">
