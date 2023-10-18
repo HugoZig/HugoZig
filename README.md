@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/HugoZig">
-    <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZig&theme=highcontrast&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoZig&theme=highcontrast&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
